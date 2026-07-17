@@ -25,6 +25,12 @@ I began by setting up both frontend and backend environments, configuring the da
 - Modified the backend response structure to match the frontend API contract.
 - Tested ticket booking, QR generation, and booking registry.
 
+## Screenshots
+<img width="1918" height="970" alt="Screenshot 2026-07-17 081349" src="https://github.com/user-attachments/assets/5a45abb0-b0d7-4e75-b13a-6a616fc0d18a" />
+<img width="1918" height="977" alt="Screenshot 2026-07-17 081028" src="https://github.com/user-attachments/assets/feed629e-4fc3-4f6d-97cc-cc7519a8e494" />
+<img width="1918" height="971" alt="Screenshot 2026-07-17 081302" src="https://github.com/user-attachments/assets/e9256675-1f69-47d9-98c0-ac7cfffda34d" />
+
+
 ## Challenges
 
 The biggest challenge was understanding an unfamiliar codebase and maintaining compatibility between frontend and backend without changing the existing API endpoints.
